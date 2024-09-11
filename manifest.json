@@ -1,0 +1,20 @@
+{
+  "name": "Thiết kế HVAC",
+  "short_name": "HVAC",
+  "start_url": "https://thietkehvac.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6A6BykIfmqQxqbE55IKCxjw9H_WxJUrMBWBOAHGkio0Rx4d9xneDGEoE8nE3N2KPNhcMz4Hn9fMzF-AZL7ySsTOd1RXd8wrJpto2CSB8QLzMse1pWx5rHClAKCAhuJReojgrV_2xxkSxXj9obD8-mmGm8_4sxcYNE_3bOPwp1jofNRqT5g0sbiOXU/s320/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6A6BykIfmqQxqbE55IKCxjw9H_WxJUrMBWBOAHGkio0Rx4d9xneDGEoE8nE3N2KPNhcMz4Hn9fMzF-AZL7ySsTOd1RXd8wrJpto2CSB8QLzMse1pWx5rHClAKCAhuJReojgrV_2xxkSxXj9obD8-mmGm8_4sxcYNE_3bOPwp1jofNRqT5g0sbiOXU/s320/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
